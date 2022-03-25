@@ -1,0 +1,16 @@
+{
+  "name": "s2wa05kramer",
+  "version": "1.0.0",
+  "description": "Server for Webapps",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "webapps"
+  ],
+  "author": "Reece Kramer",
+  "license": "ISC"
+}
